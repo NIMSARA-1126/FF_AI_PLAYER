@@ -1,4 +1,3 @@
-
 [app]
 
 title = FF AI PLAYER
